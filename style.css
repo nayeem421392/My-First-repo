@@ -1,0 +1,13 @@
+h1{
+    color: aquamarine;
+    background-color: chartreuse;
+}
+p{
+    color: blueviolet;
+    background-color: crimson;
+    border: 30px solid yellow;
+}
+.blog{
+    color: darkred;
+    text-align: center;
+}
